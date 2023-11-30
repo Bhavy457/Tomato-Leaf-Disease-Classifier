@@ -1,7 +1,7 @@
-Description:
+**Description:**
 The Tomato Leaf Disease Classifier is an advanced agricultural tool leveraging cutting-edge technologies to revolutionize crop health monitoring. This project employs Convolutional Neural Networks (CNN) to accurately identify and classify diseases affecting tomato plants, enabling timely intervention for farmers. The implementation incorporates a robust tech stack, seamlessly blending various technologies.
 
-Technological Components:
+**Technological Components:**
 
 Python:
 Numpy & OpenCV: Utilized for efficient image processing and manipulation.
@@ -24,10 +24,10 @@ Postman: Utilized for API testing, ensuring robust functionality.
 Visualization:
 Matplotlib: Leveraged for creating visually informative graphs and charts.
 
-Dataset:
+**Dataset:**
 https://www.kaggle.com/datasets/emmarex/plantdisease
 
-Commands for running a Front end:
+**Commands for running a Front end:**
 cd UI
 npm run start
 
