@@ -32,3 +32,5 @@ cd UI
 npm run start
 
 The Tomato Leaf Disease Classifier stands at the intersection of agriculture and technology, providing a practical solution to enhance crop management and optimize yields. Users can interact with the system through a user-friendly web interface, making it accessible to farmers and agricultural experts alike. The project embraces the collaborative power of Jupyter notebooks for continuous improvement and adaptation to evolving agricultural challenges.
+
+![tomato-classifier](https://github.com/Bhavy457/Tomato-Leaf-Disease-Classifier/assets/144603285/825e0216-66cd-4e63-bee7-b424895f0047)
